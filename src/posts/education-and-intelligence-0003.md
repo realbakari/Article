@@ -1,6 +1,6 @@
 ---
 title: "Education and intelligence accomplish nothing without action."
-date: "2019-04-12"
+date: "2019-08-12"
 path: "/education-and-intelligence"
 coverImage: "../images/baim-hanif-pYWuOMhtc6k-unsplash.jpg"
 author: "Bakari Mustafa"
