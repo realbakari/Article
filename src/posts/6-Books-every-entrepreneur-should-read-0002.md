@@ -3,7 +3,6 @@ title: "6 Books Every Entrepreneur, Creative and Hustler Should Read"
 date: "2019-04-12"
 path: "/6-books-every-entrepreneur-should-read"
 coverImage: "../images/jeroen-den-otter-1SA__aN_I2U-unsplash.jpg"
-feature_image: "../images/jeroen-den-otter-1SA__aN_I2U-unsplash.jpg"
 author: "Bakari Mustafa"
 tags: ["Books"]
 ---
