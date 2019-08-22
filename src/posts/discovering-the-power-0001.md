@@ -3,10 +3,7 @@ title: "Discovering the Power of Positive Transformation"
 path: "/discovering-power-of-positive"
 date: "2019-06-17"
 coverImage: "../images/levi-bare-fVpCWcX70ns-unsplash.jpg"
-feature_image: "../images/levi-bare-fVpCWcX70ns-unsplash.jpg"
 author: "Bakari Mustafa"
-categories:
-- General
 tags: ["Human behaviour", "Personal development"]
 ---
 
