@@ -20,6 +20,7 @@ const SEO = ({ description, lang, meta, keywords, title }) => {
     title: siteTitle,
     description: siteDescription,
     author,
+    coverImage,
   } = data.site.siteMetadata
   const metaTitle = title || siteTitle
   const metaDescription = description || siteDescription
